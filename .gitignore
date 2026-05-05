@@ -1,0 +1,4 @@
+# Dev server directory structure (copies for PHP built-in server)
+api/
+includes/
+data/
